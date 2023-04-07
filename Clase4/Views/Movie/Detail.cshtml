@@ -1,0 +1,19 @@
+@model Movie
+
+<h2> @Model.Name</h2>
+<p>Duracion: @Model.Minutes</p>
+<p>Review: @Model.Review</p>
+
+
+
+<form method="post">
+
+<button type="submit" 
+        class="btn btn-danger"
+        asp-controller="Movie"
+        asp-action="Delete"
+        asp-route-code="@Model.Code"
+        value="Eliminar"> Eliminar
+</button>
+
+</form>

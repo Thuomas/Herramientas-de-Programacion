@@ -1,0 +1,57 @@
+C:\Users\dydsoftware\Documents\RazorPagesPizza\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dydsoftware\Documents\RazorPagesPizza\bin\Debug\net6.0\appsettings.json
+C:\Users\dydsoftware\Documents\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.staticwebassets.runtime.json
+C:\Users\dydsoftware\Documents\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.exe
+C:\Users\dydsoftware\Documents\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.deps.json
+C:\Users\dydsoftware\Documents\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.runtimeconfig.json
+C:\Users\dydsoftware\Documents\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.dll
+C:\Users\dydsoftware\Documents\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.pdb
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.csproj.AssemblyReference.cache
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.AssemblyInfoInputs.cache
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.AssemblyInfo.cs
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.csproj.CoreCompileInputs.cache
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.RazorAssemblyInfo.cache
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.RazorAssemblyInfo.cs
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\scopedcss\bundle\RazorPagesPizza.styles.css
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\scopedcss\projectbundle\RazorPagesPizza.bundle.scp.css
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.dll
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\refint\RazorPagesPizza.dll
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.pdb
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.genruntimeconfig.cache
+C:\Users\dydsoftware\Documents\RazorPagesPizza\obj\Debug\net6.0\ref\RazorPagesPizza.dll
+D:\Herramientas 2023\RazorPagesPizza\bin\Debug\net6.0\appsettings.Development.json
+D:\Herramientas 2023\RazorPagesPizza\bin\Debug\net6.0\appsettings.json
+D:\Herramientas 2023\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.staticwebassets.runtime.json
+D:\Herramientas 2023\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.exe
+D:\Herramientas 2023\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.deps.json
+D:\Herramientas 2023\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.runtimeconfig.json
+D:\Herramientas 2023\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.dll
+D:\Herramientas 2023\RazorPagesPizza\bin\Debug\net6.0\RazorPagesPizza.pdb
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.csproj.AssemblyReference.cache
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.AssemblyInfoInputs.cache
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.AssemblyInfo.cs
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.csproj.CoreCompileInputs.cache
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.MvcApplicationPartsAssemblyInfo.cache
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.RazorAssemblyInfo.cache
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.RazorAssemblyInfo.cs
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\staticwebassets\msbuild.RazorPagesPizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPagesPizza.props
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesPizza.props
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPagesPizza.props
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.build.json
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\staticwebassets.development.json
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\scopedcss\bundle\RazorPagesPizza.styles.css
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\scopedcss\projectbundle\RazorPagesPizza.bundle.scp.css
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.dll
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\refint\RazorPagesPizza.dll
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.pdb
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\RazorPagesPizza.genruntimeconfig.cache
+D:\Herramientas 2023\RazorPagesPizza\obj\Debug\net6.0\ref\RazorPagesPizza.dll
