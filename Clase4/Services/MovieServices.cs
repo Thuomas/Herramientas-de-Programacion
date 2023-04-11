@@ -14,7 +14,10 @@ public static class MovieService{
             new Movie { Name = "Super man", Code="SPM", Category="Action", Minutes=110},
             new Movie { Name = "Esperando Carroza", Code="ELC", Category="Comedy", Minutes=110},
             new Movie { Name = "Argentina 1985", Code="ARG", Category="Drama", Minutes=110},
-            new Movie { Name = "El Padrino", Code="ELP", Category="Drama", Minutes=120}
+            new Movie { Name = "El Padrino", Code="ELP", Category="Drama", Minutes=120},
+            new Movie { Name = "Super Mario Bros", Code="SMB", Category="Animation", Minutes=120},
+            new Movie { Name = "El Padrino 2", Code="ELP2", Category="Drama", Minutes=150},
+            new Movie { Name = "The Terminator", Code="TMN", Category="Action", Minutes=130}
         };
     }
 
