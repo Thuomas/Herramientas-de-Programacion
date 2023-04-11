@@ -2,10 +2,12 @@ using Clase4.Models;
 
 namespace Clase4.Services;
 
-public static class MovieService{
-    static List<Movie> Movies { get; set;}
+public static class MovieService
+{
+    static List<Movie> Movies { get; set; }
 
-    static MovieService(){
+    static MovieService()
+    {
         Movies = new List<Movie>
         {
             new Movie { Name = "Back to the Future", Code="BTF", Category="Sci fi", Minutes=110},
@@ -23,23 +25,28 @@ public static class MovieService{
 
     public static List<Movie> GetAll() => Movies;
 
-    public static void Add(Movie obj){
-       if(obj == null){
-         return;
-       }
+    public static void Add(Movie obj)
+    {
+        if (obj == null)
+        {
+            return;
+        }
 
-       Movies.Add(obj);
+        Movies.Add(obj);
     }
 
-    public static void Delete(string code){
+    public static void Delete(string code)
+    {
         var movieToDelete = Get(code);
 
-        if (movieToDelete != null){
+        if (movieToDelete != null)
+        {
             Movies.Remove(movieToDelete);
         }
     }
 
-    public static void Edit(Movie movie, Movie newMovie){
+    public static void Edit(Movie movie, Movie newMovie)
+    {
         var movieToUpDate = Get(movie.Code);
 
         movieToUpDate.Name = newMovie.Name;

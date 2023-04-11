@@ -6,12 +6,10 @@
 <p>Categoria: @Model.Category</p>
 <p>Review: @Model.Review</p>
 
-<form method="post"
-    asp-action="Cambiar">
-     <div class="mb-3">
-        <label asp-for="Code" class="form-label"></label>
-        <input type="text" class="form-control" asp-for="Code">
-    </div>
+<form method="post" asp-action="Cambiar">
+
+    @Html.HiddenFor(m=>m.Code)<span></span>
+
     <div class="mb-3">
         <label asp-for="Name" class="form-label"></label>
         <input type="text" class="form-control" asp-for="Name">

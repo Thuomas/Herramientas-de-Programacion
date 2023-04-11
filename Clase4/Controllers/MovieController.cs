@@ -24,16 +24,19 @@ public class MovieController : Controller
 
         return View(model);
     }
+
     [HttpPost]
     public IActionResult Edit(string id)
     {
         var model = MovieService.Get(id);
         return View(model);
     }
+
     [HttpPost]
     public IActionResult Cambiar(Movie movie)
     {
-        if(!ModelState.IsValid){
+        if (!ModelState.IsValid)
+        {
             return RedirectToAction("Index");
         }
 
@@ -44,7 +47,7 @@ public class MovieController : Controller
     }
 
 
-    
+
     public IActionResult Create()
     {
         return View();
