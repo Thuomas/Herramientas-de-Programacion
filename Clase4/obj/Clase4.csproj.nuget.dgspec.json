@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Herramientas 2023\\Clase4\\Clase4.csproj": {}
+    "D:\\Herramientas Programacion\\Clase4\\Clase4.csproj": {}
   },
   "projects": {
-    "D:\\Herramientas 2023\\Clase4\\Clase4.csproj": {
+    "D:\\Herramientas Programacion\\Clase4\\Clase4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Herramientas 2023\\Clase4\\Clase4.csproj",
+        "projectUniqueName": "D:\\Herramientas Programacion\\Clase4\\Clase4.csproj",
         "projectName": "Clase4",
-        "projectPath": "D:\\Herramientas 2023\\Clase4\\Clase4.csproj",
+        "projectPath": "D:\\Herramientas Programacion\\Clase4\\Clase4.csproj",
         "packagesPath": "C:\\Users\\Gaston\\.nuget\\packages\\",
-        "outputPath": "D:\\Herramientas 2023\\Clase4\\obj\\",
+        "outputPath": "D:\\Herramientas Programacion\\Clase4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gaston\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -35,5 +35,15 @@ public static class MovieService{
             Movies.Remove(movieToDelete);
         }
     }
+
+    public static void Edit(Movie movie, Movie newMovie){
+        var movieToUpDate = Get(movie.Code);
+
+        movieToUpDate.Name = newMovie.Name;
+        movieToUpDate.Category = newMovie.Category;
+        movieToUpDate.Minutes = newMovie.Minutes;
+        movieToUpDate.Review = newMovie.Review;
+    }
+
     public static Movie? Get(string code) => Movies.FirstOrDefault(x => x.Code.ToLower() == code.ToLower());
 }

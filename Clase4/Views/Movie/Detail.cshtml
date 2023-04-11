@@ -4,16 +4,20 @@
 <p>Duracion: @Model.Minutes</p>
 <p>Review: @Model.Review</p>
 
-
-
 <form method="post">
+
+<button type="submit" 
+        class="btn btn-primary"
+        asp-controller="Movie"
+        asp-action="Edit"
+        asp-route-id="@Model.Code"> Editar
+</button>
 
 <button type="submit" 
         class="btn btn-danger"
         asp-controller="Movie"
         asp-action="Delete"
-        asp-route-code="@Model.Code"
-        value="Eliminar"> Eliminar
+        asp-route-code="@Model.Code"> Eliminar
 </button>
 
 </form>

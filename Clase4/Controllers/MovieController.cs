@@ -20,11 +20,31 @@ public class MovieController : Controller
 
     public IActionResult Detail(string id)
     {
-        var model= MovieService.Get(id);
+        var model = MovieService.Get(id);
 
         return View(model);
     }
+    [HttpPost]
+    public IActionResult Edit(string id)
+    {
+        var model = MovieService.Get(id);
+        return View(model);
+    }
+    [HttpPost]
+    public IActionResult Cambiar(Movie movie)
+    {
+        if(!ModelState.IsValid){
+            return RedirectToAction("Index");
+        }
 
+        var movieToUpdate = MovieService.Get(movie.Code);
+        MovieService.Edit(movieToUpdate, movie);
+
+        return RedirectToAction("Index");
+    }
+
+
+    
     public IActionResult Create()
     {
         return View();
@@ -34,7 +54,8 @@ public class MovieController : Controller
     [HttpPost]
     public IActionResult Create(Movie movie)
     {
-        if(!ModelState.IsValid){
+        if (!ModelState.IsValid)
+        {
             return RedirectToAction("Create");
         }
 
@@ -45,7 +66,7 @@ public class MovieController : Controller
 
     [HttpPost]
     public IActionResult Delete(string code)
-    {   
+    {
         MovieService.Delete(code);
         return RedirectToAction("Index");
 
